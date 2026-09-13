@@ -25,10 +25,9 @@ loko create            # create a complete environment
 
 | Repo | Description |
 |------|-------------|
-| [loko](https://github.com/getloko/loko) | LoKO - Your Local Kubernetes Oasis |
+| [loko-releases](https://github.com/getloko/loko-releases) | LoKO CLI — official binary releases (source developed privately) |
 | [catalog](https://github.com/getloko/catalog) | LoKO Catalog - Components, Workloads & More |
 | [getloko.github.io](https://github.com/getloko/getloko.github.io) | LoKO Documentation |
 | [homebrew-tap](https://github.com/getloko/homebrew-tap) | LoKO Homebrew Tap |
 | [container-images](https://github.com/getloko/container-images) | LoKO-related container images |
-| [dns-operator](https://github.com/getloko/dns-operator) | LoKO DNS Operator |
 | [examples](https://github.com/getloko/examples) | LoKO Configuration Examples |
